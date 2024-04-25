@@ -22,4 +22,4 @@
 
 <h3 align="left">More information:</h3>
 
-[![Static Badge](https://img.shields.io/badge/%20Download_my_resume-%23eceff1?style=social&logo=googledocs&labelColor=%23eceff1)](https://github.com/vladfedoriuk/vladfedoriuk/files/14828575/Vladyslav_Fedoriuk_resume.pdf)
+[![Static Badge](https://img.shields.io/badge/%20Download_my_resume-%23eceff1?style=social&logo=googledocs&labelColor=%23eceff1)](https://github.com/vladfedoriuk/vladfedoriuk/files/15121893/Vladyslav_Fedoriuk_resume.pdf)
