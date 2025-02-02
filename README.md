@@ -1,7 +1,7 @@
 <h3 align="left">Hi 👋, I'm Vladyslav Fedoriuk</h1>
 <p align="left">I specialize in full-stack web development with <b>Python</b> and <b>React.js</b>, boasting a strong proficiency in databases, software architecture, and machine learning. With a passion for crafting robust solutions, I continuously deepen my expertise in cutting-edge technologies.</p>
 
-- 🌱 I’m currently learning **Google Cloud Platform, TailwindCSS, Next.js**
+- 🌱 I’m currently learning **Google Cloud Platform, Azure, TailwindCSS, Next.js**
 
 - 💬 Ask me about **Python, React, PostgreSQL / TimescaleDB**
 
@@ -22,4 +22,4 @@
 
 <h3 align="left">More information:</h3>
 
-[![Static Badge](https://img.shields.io/badge/%20Download_my_resume-%23eceff1?style=social&logo=googledocs&labelColor=%23eceff1)](https://github.com/user-attachments/files/16737351/Vladyslav_Fedoriuk_resume.pdf)
+[![Static Badge](https://img.shields.io/badge/%20Download_my_resume-%23eceff1?style=social&logo=googledocs&labelColor=%23eceff1)](https://github.com/user-attachments/files/18633151/Vladyslav_Fedoriuk_resume.pdf)
