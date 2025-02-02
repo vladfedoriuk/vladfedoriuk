@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vladyslav_Fedoriuk-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-fedoriuk/) [![Mail Badge](https://img.shields.io/badge/-Vladyslav_Fedoriuk-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vlad.fedoriuk2000@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Vladyslav_Fedoriuk-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/vladyslav-fedoriuk/) [![Mail Badge](https://img.shields.io/badge/-Vladyslav_Fedoriuk-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vlad.fedoriuk2000@gmail.com)
 
 
 <h3 align="left">Technologies:</h3>
